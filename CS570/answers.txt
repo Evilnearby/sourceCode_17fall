@@ -1,0 +1,2 @@
+The number of words is: 111
+The number of sentences is: 8
