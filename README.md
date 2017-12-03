@@ -1,2 +1,12 @@
 # sourceCode_17fall
-CS520 CS570
+Source code of coursework and assignments in 2017Fall, including
+CS520 (Intro to OS):
+  Buddy system
+  OS Simulation Project (Process scheduling)
+  
+CS570 (Basic Algorithms and Data Struct.):
+  Huffman Encoding
+  TicTacToe
+  TrieArticles
+  ReversedPolishNotationCalculator
+  and many labs and programming assignments
