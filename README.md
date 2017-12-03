@@ -1,12 +1,12 @@
 # sourceCode_17fall
 Source code of coursework and assignments in 2017Fall, including
 CS520 (Intro to OS):
-  Buddy system
-  OS Simulation Project (Process scheduling)
+  \nBuddy memory system
+  \nOS Simulation Project (Process scheduling)
   
 CS570 (Basic Algorithms and Data Struct.):
-  Huffman Encoding
-  TicTacToe
-  TrieArticles
-  ReversedPolishNotationCalculator
-  and many labs and programming assignments
+  \nHuffman Encoding
+  \nTicTacToe
+  \nTrieArticles
+  \nReversedPolishNotationCalculator
+  \nand many labs and programming assignments
