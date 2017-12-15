@@ -10,3 +10,5 @@ CS570 (Basic Algorithms and Data Struct.):
 -TrieArticles
 -ReversedPolishNotationCalculator
 -and many labs and programming assignments
+
+//Author: Shilun Li
